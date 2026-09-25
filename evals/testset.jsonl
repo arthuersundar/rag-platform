@@ -1,0 +1,9 @@
+{"question": "how do I set a memory limit on a container?", "expected_source_contains": "assign-memory-resource", "should_answer": true}
+{"question": "what is a PodDisruptionBudget?", "expected_source_contains": "disruptions", "should_answer": true}
+{"question": "how do I expose a deployment with a service?", "expected_source_contains": "expose", "should_answer": true}
+{"question": "difference between a StatefulSet and a Deployment", "expected_source_contains": "statefulset", "should_answer": true}
+{"question": "how do I roll back a deployment?", "expected_source_contains": "deployment", "should_answer": true}
+{"question": "what is a sidecar container in Kubernetes", "expected_source_contains": "sidecar", "should_answer": true}
+{"question": "how do I set a memory limit in Docker Compose?", "expected_source_contains": null, "should_answer": false}
+{"question": "how do I file my taxes", "expected_source_contains": null, "should_answer": false}
+{"question": "what changed in Kubernetes 1.32 regarding sidecar containers", "expected_source_contains": null, "should_answer": false}
