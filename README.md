@@ -2,9 +2,7 @@
 
 [GitHub Repo](https://github.com/arthuersundar/rag-platform)
 
-A Retrieval-Augmented Generation (RAG) system that answers Kubernetes questions
-using the official Kubernetes documentation — deployed on Kubernetes, with
-automated evals for retrieval accuracy and answer grounding.
+Production-grade Enterprise RAG Platform over Kubernetes docs. Deployed with Helm, pgvector, and Ollama with automated grounding and evaluation pipelines.
 
 **Status:** core pipeline, Kubernetes deployment, and evals complete. CI,
 hybrid search/reranking, and the LLM gateway are in progress (see Roadmap).
